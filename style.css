@@ -2,7 +2,7 @@ body {
     font-family: 'Poppins', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 .container {
-    background: linear-gradient(#f1f1f1, #eeeeee, #faefd7);
+    background: linear-gradient(#f5f4f4, #e0e0e0, #f7f7f7);
     height: 150px;
     margin-top: 0;
     border-radius: 10px 25px;
