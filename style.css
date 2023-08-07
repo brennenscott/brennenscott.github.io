@@ -17,6 +17,11 @@
     color: #48855F;
     text-decoration: unset;
   }
+  img {
+    height: 80%;
+    width: auto;
+    padding-left: 50px;
+  }
   .login-root {
       background: #fff;
       display: flex;
